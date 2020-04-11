@@ -1,11 +1,11 @@
-/********************************************************************  I declare that my assignment is wholly my own work in accordance with Seneca Academic Policy. No part of this assignment has been copied manually or electronically from any other source (including web sites) except for the information supplied by the WEB222 instructors and / or made available in this assignment for my use.  I also declare that no part of this assignment has been distributed to other students.  Name: kenan de gale  Dated:3/21/2020 ********************************************************************/ 
- 
-
 body {margin:auto;background:white;text-align:center;}
 caption {max-width:%100;text-align:center;font-size:5vw;}  
 td img {max-width:%100;min-width:%50;width:150px;height:70px;}
 table {max-width:%100;min-width:%50;margin:auto;background:#FFFFFF;}
 td, th{max-width:%100;min-width:%50;width:150px;height:70px;}
+p {max-width:%100;text-align:left;font-size:2vw;}
+a {max-width:%100;text-align:center;font-size:2vw;}
+
 @media screen and (max-width:400px) 
 {
 td img {max-width:%100;min-width:%100;width:70px;height:50px;}
@@ -17,7 +17,3 @@ td, th{max-width:%100;min-width:%100;width:70px;height:50px;}
 td img {max-width:%100;min-width:%50;width:350px;height:70px;}
 td, th{max-width:%100;min-width:%50;width:350px;height:100px;}
 }
-
-//border-right:%100 solid #D1300E;border-left:%100 solid #D1300E
-
-//h1{max-idth:%100;text-align:center;font-size:3vw;text-decoration:underline;} 
